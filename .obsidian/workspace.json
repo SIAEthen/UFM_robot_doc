@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-硬件系统/固定Jetson IP地址.md",
+                "file": "00-UFM概览/2026-10-14-代码命名规范.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "固定Jetson IP地址"
+              "title": "2026-10-14-代码命名规范"
             }
           }
         ],
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-硬件系统/固定Jetson IP地址.md",
+                "file": "00-UFM概览/2026-10-14-代码命名规范.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-硬件系统/固定Jetson IP地址.md",
+                "file": "00-UFM概览/2026-10-14-代码命名规范.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01-硬件系统/固定Jetson IP地址.md",
+                "file": "00-UFM概览/2026-10-14-代码命名规范.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -205,13 +205,15 @@
   },
   "active": "08f8817ef7590b18",
   "lastOpenFiles": [
+    "00-UFM概览/2026-10-14-设备信息.md",
+    "00-UFM概览/2026-10-14-代码命名规范.md",
+    "01-硬件系统/固定Jetson IP地址.md",
+    "Obsidian_GitHub_Tutorial.md",
     "01-硬件系统/配置开机自启动.md",
     "01-硬件系统/硬件权限问题汇总.md",
     "01-硬件系统/README.md",
     "02-软件开发/README.md",
     "02-软件开发/ROS2 关键命令.md",
-    "00-UFM概览/设备信息.md",
-    "01-硬件系统/固定Jetson IP地址.md",
     "00-UFM概览/README.md",
     "04-试验测试/README.md",
     "03-开发日志/README.md",
